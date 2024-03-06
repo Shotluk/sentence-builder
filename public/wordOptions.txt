@@ -1,0 +1,16 @@
+*Fruits
+Tomato
+Orange
+
+*People
+American
+Russian
+Indian
+
+*Vegetable
+Carrot
+Potatoe
+
+*Tree
+Big Tree
+Small Tree
